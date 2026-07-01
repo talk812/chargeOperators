@@ -1,0 +1,197 @@
+{
+  "version": 2,
+  "updatedAt": "2026-07-01",
+  "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；全市場約 54 家，此為前 20 大規模/能見度業者。",
+  "operators": [
+    {
+      "id": "evoasis",
+      "displayName": "EVOASIS",
+      "aliases": ["EVOASIS", "超級綠洲", "源點科技", "綠洲", "EVOASIS APP"],
+      "parser": "evoasis",
+      "rank": 1,
+      "brandColor": "#2E7D32",
+      "symbolName": "leaf.fill"
+    },
+    {
+      "id": "evalue",
+      "displayName": "EVALUE",
+      "aliases": ["EVALUE", "EVALUE GO", "華城電能", "華城", "裕電", "電能值", "MYCHARGE", "evalue.com"],
+      "parser": "evalue",
+      "rank": 2,
+      "brandColor": "#1565C0",
+      "symbolName": "ev.charger.fill"
+    },
+    {
+      "id": "u-power",
+      "displayName": "U-Power",
+      "aliases": ["U-Power", "U-POWER", "UPower", "U-POINT", "旭電馳", "優勢能源"],
+      "parser": "u-power",
+      "rank": 3,
+      "brandColor": "#F57C00",
+      "symbolName": "bolt.car.fill"
+    },
+    {
+      "id": "tesla",
+      "displayName": "Tesla",
+      "aliases": ["Tesla", "特斯拉", "SUPERCHARGER", "超級充電", "Tesla Supercharger"],
+      "parser": "tesla",
+      "rank": 4,
+      "brandColor": "#CC0000",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "icharging",
+      "displayName": "iCharging",
+      "aliases": ["iCharging", "iCHARGING", "中興電", "中興電工", "iCharging APP"],
+      "parser": null,
+      "rank": 5,
+      "brandColor": "#00838F",
+      "symbolName": "chargingstation.fill"
+    },
+    {
+      "id": "tail",
+      "displayName": "特爾電力",
+      "aliases": ["特爾電力", "TAIL", "三地能源", "特爾"],
+      "parser": "tail",
+      "rank": 6,
+      "brandColor": "#6A1B9A",
+      "symbolName": "bolt.circle.fill"
+    },
+    {
+      "id": "starship",
+      "displayName": "星舟快充",
+      "aliases": ["星舟快充", "星舟", "STARCHARGER", "GCSMS", "泓德能源", "充電訂單詳情"],
+      "parser": "starship",
+      "rank": 7,
+      "brandColor": "#1A237E",
+      "symbolName": "star.fill"
+    },
+    {
+      "id": "cloud-leopard",
+      "displayName": "雲豹能源",
+      "aliases": ["雲豹能源", "雲豹", "Cloud Leopard", "CLENERGY"],
+      "parser": null,
+      "rank": 8,
+      "brandColor": "#0288D1",
+      "symbolName": "cloud.fill"
+    },
+    {
+      "id": "twn-taxi",
+      "displayName": "台灣大車隊",
+      "aliases": ["台灣大車隊", "55688", "台灣大"],
+      "parser": null,
+      "rank": 9,
+      "brandColor": "#F9A825",
+      "symbolName": "car.fill"
+    },
+    {
+      "id": "uspace",
+      "displayName": "USPACE",
+      "aliases": ["USPACE", "Uspace", "牙周", "USPACE 充電"],
+      "parser": null,
+      "rank": 10,
+      "brandColor": "#3949AB",
+      "symbolName": "parkingsign.circle.fill"
+    },
+    {
+      "id": "gogoro",
+      "displayName": "Gogoro Network",
+      "aliases": ["Gogoro Network", "Gogoro", "GoShare", "睿能", "Gogoro 充電"],
+      "parser": null,
+      "rank": 11,
+      "brandColor": "#00A651",
+      "symbolName": "scooter"
+    },
+    {
+      "id": "teld",
+      "displayName": "特來電",
+      "aliases": ["特來電", "TELD", "Teld"],
+      "parser": null,
+      "rank": 12,
+      "brandColor": "#0D47A1",
+      "symbolName": "ev.charger.fill"
+    },
+    {
+      "id": "star-charge",
+      "displayName": "星星充電",
+      "aliases": ["星星充電", "Star Charge", "StarCharge"],
+      "parser": null,
+      "rank": 13,
+      "brandColor": "#FFB300",
+      "symbolName": "star.circle.fill"
+    },
+    {
+      "id": "yes-charging",
+      "displayName": "YES!來電",
+      "aliases": ["YES!來電", "YES來電", "YES 充電"],
+      "parser": null,
+      "rank": 14,
+      "brandColor": "#D81B60",
+      "symbolName": "hand.thumbsup.fill"
+    },
+    {
+      "id": "mycharge",
+      "displayName": "MyCharge",
+      "aliases": ["MyCharge", "My Charge", "我的充電"],
+      "parser": null,
+      "rank": 15,
+      "brandColor": "#0097A7",
+      "symbolName": "battery.100.bolt"
+    },
+    {
+      "id": "charge-smith",
+      "displayName": "充電史密斯",
+      "aliases": ["充電史密斯", "ChargeSmith", "Charge Smith"],
+      "parser": null,
+      "rank": 16,
+      "brandColor": "#5D4037",
+      "symbolName": "wrench.and.screwdriver.fill"
+    },
+    {
+      "id": "delta",
+      "displayName": "台達電",
+      "aliases": ["台達電", "Delta", "DELTA", "台達充電"],
+      "parser": null,
+      "rank": 17,
+      "brandColor": "#003366",
+      "symbolName": "building.2.fill"
+    },
+    {
+      "id": "fet-ev",
+      "displayName": "遠傳充電",
+      "aliases": ["遠傳充電", "遠傳電信", "FET", "Far EasTone", "遠傳 FET"],
+      "parser": null,
+      "rank": 18,
+      "brandColor": "#4CAF50",
+      "symbolName": "antenna.radiowaves.left.and.right"
+    },
+    {
+      "id": "twm-ev",
+      "displayName": "台灣大充電",
+      "aliases": ["台灣大充電", "台灣大哥大", "台哥大", "M+", "台灣大 M+"],
+      "parser": null,
+      "rank": 19,
+      "brandColor": "#C2185B",
+      "symbolName": "phone.fill"
+    },
+    {
+      "id": "nio",
+      "displayName": "NIO",
+      "aliases": ["NIO", "蔚来", "蔚來", "NIO Power", "NIOPower"],
+      "parser": null,
+      "rank": 20,
+      "brandColor": "#212121",
+      "symbolName": "car.side.fill"
+    },
+    {
+      "id": "other",
+      "displayName": "其他",
+      "aliases": [],
+      "parser": null,
+      "rank": 99,
+      "isCustom": true,
+      "brandColor": "#9E9E9E",
+      "symbolName": "ellipsis.circle.fill"
+    }
+  ]
+}
