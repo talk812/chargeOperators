@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-07-01",
+  "version": 3,
+  "updatedAt": "2026-07-08",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；全市場約 54 家，此為前 20 大規模/能見度業者。",
   "operators": [
     {
@@ -88,7 +88,7 @@
       "id": "uspace",
       "displayName": "USPACE",
       "aliases": ["USPACE", "Uspace", "牙周", "USPACE 充電"],
-      "parser": null,
+      "parser": "uspace",
       "rank": 10,
       "brandColor": "#3949AB",
       "symbolName": "parkingsign.circle.fill"
@@ -182,6 +182,42 @@
       "rank": 20,
       "brandColor": "#212121",
       "symbolName": "car.side.fill"
+    },
+    {
+      "id": "lemon-power",
+      "displayName": "Lemon Power",
+      "aliases": ["Lemon Power", "LemonPower", "檸檬電力", "Lemon"],
+      "parser": "lemon-power",
+      "rank": 21,
+      "brandColor": "#FBC02D",
+      "symbolName": "bolt.circle.fill"
+    },
+    {
+      "id": "dian-xiao-er",
+      "displayName": "電小二",
+      "aliases": ["電小二", "DianXiaoEr", "電小二充電"],
+      "parser": "dian-xiao-er",
+      "rank": 22,
+      "brandColor": "#00897B",
+      "symbolName": "bolt.horizontal.fill"
+    },
+    {
+      "id": "che-che",
+      "displayName": "車車電充",
+      "aliases": ["車車電充", "車車幣", "車車充電", "車車電"],
+      "parser": "che-che",
+      "rank": 23,
+      "brandColor": "#5E35B1",
+      "symbolName": "creditcard.fill"
+    },
+    {
+      "id": "linbros",
+      "displayName": "LINBROS",
+      "aliases": ["LINBROS", "LIN BRO", "凌霸", "凌霸能源"],
+      "parser": "linbros",
+      "rank": 24,
+      "brandColor": "#0D47A1",
+      "symbolName": "bolt.square.fill"
     },
     {
       "id": "other",
