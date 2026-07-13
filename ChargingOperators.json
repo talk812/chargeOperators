@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-07-13",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；全市場約 54 家，此為前 20 大規模/能見度業者。",
   "operators": [
@@ -236,6 +236,15 @@
       "rank": 26,
       "brandColor": "#455A64",
       "symbolName": "bolt.square.fill"
+    },
+    {
+      "id": "home-charger",
+      "displayName": "家用充電樁",
+      "aliases": ["家用充電樁", "家用充電", "家庭充電", "住家充電", "壁掛充電", "Home Charger", "Homecharger"],
+      "parser": null,
+      "rank": 90,
+      "brandColor": "#2E7D32",
+      "symbolName": "house.fill"
     },
     {
       "id": "other",
