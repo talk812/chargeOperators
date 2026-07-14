@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-07-13",
+  "version": 7,
+  "updatedAt": "2026-07-14",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；全市場約 54 家，此為前 20 大規模/能見度業者。",
   "operators": [
     {
@@ -140,8 +140,8 @@
     },
     {
       "id": "charge-smith",
-      "displayName": "充電史密斯",
-      "aliases": ["充電史密斯", "ChargeSmith", "Charge Smith"],
+      "displayName": "Chargesmith",
+      "aliases": ["Chargesmith", "ChargeSmith", "Charge Smith", "充電史密斯"],
       "parser": null,
       "rank": 16,
       "brandColor": "#5D4037",
@@ -231,11 +231,20 @@
     {
       "id": "charging-blok",
       "displayName": "區快充",
-      "aliases": ["區快充", "Charging Blok", "ChargingBlok", "CHARGINGBL9K", "CHARGINGBLOK"],
+      "aliases": ["區快充", "Charging Blok", "Charging Block", "ChargingBlok", "CHARGINGBL9K", "CHARGINGBLOK", "CHARGINGBLOCK"],
       "parser": null,
       "rank": 26,
       "brandColor": "#455A64",
       "symbolName": "bolt.square.fill"
+    },
+    {
+      "id": "shark-parking",
+      "displayName": "SharkParking",
+      "aliases": ["SharkParking", "Shark Parking", "蝦趴", "SHARKPARKING"],
+      "parser": null,
+      "rank": 27,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.car.fill"
     },
     {
       "id": "home-charger",
