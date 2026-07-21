@@ -1,12 +1,18 @@
 {
   "version": 7,
-  "updatedAt": "2026-07-16",
+  "updatedAt": "2026-07-21",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；全市場約 54 家，此為前 20 大規模/能見度業者。",
   "operators": [
     {
       "id": "evoasis",
       "displayName": "EVOASIS",
-      "aliases": ["EVOASIS", "超級綠洲", "源點科技", "綠洲", "EVOASIS APP"],
+      "aliases": [
+        "EVOASIS",
+        "超級綠洲",
+        "源點科技",
+        "綠洲",
+        "EVOASIS APP"
+      ],
       "parser": "evoasis",
       "rank": 1,
       "brandColor": "#2E7D32",
@@ -15,7 +21,16 @@
     {
       "id": "evalue",
       "displayName": "EVALUE",
-      "aliases": ["EVALUE", "EVALUE GO", "華城電能", "華城", "裕電", "電能值", "MYCHARGE", "evalue.com"],
+      "aliases": [
+        "EVALUE",
+        "EVALUE GO",
+        "華城電能",
+        "華城",
+        "裕電",
+        "電能值",
+        "MYCHARGE",
+        "evalue.com"
+      ],
       "parser": "evalue",
       "rank": 2,
       "brandColor": "#1565C0",
@@ -24,7 +39,14 @@
     {
       "id": "u-power",
       "displayName": "U-Power",
-      "aliases": ["U-Power", "U-POWER", "UPower", "U-POINT", "旭電馳", "優勢能源"],
+      "aliases": [
+        "U-Power",
+        "U-POWER",
+        "UPower",
+        "U-POINT",
+        "旭電馳",
+        "優勢能源"
+      ],
       "parser": "u-power",
       "rank": 3,
       "brandColor": "#F57C00",
@@ -33,7 +55,13 @@
     {
       "id": "tesla",
       "displayName": "Tesla",
-      "aliases": ["Tesla", "特斯拉", "SUPERCHARGER", "超級充電", "Tesla Supercharger"],
+      "aliases": [
+        "Tesla",
+        "特斯拉",
+        "SUPERCHARGER",
+        "超級充電",
+        "Tesla Supercharger"
+      ],
       "parser": "tesla",
       "rank": 4,
       "brandColor": "#CC0000",
@@ -42,7 +70,13 @@
     {
       "id": "icharging",
       "displayName": "iCharging",
-      "aliases": ["iCharging", "iCHARGING", "中興電", "中興電工", "iCharging APP"],
+      "aliases": [
+        "iCharging",
+        "iCHARGING",
+        "中興電",
+        "中興電工",
+        "iCharging APP"
+      ],
       "parser": null,
       "rank": 5,
       "brandColor": "#00838F",
@@ -51,7 +85,12 @@
     {
       "id": "tail",
       "displayName": "特爾電力",
-      "aliases": ["特爾電力", "TAIL", "三地能源", "特爾"],
+      "aliases": [
+        "特爾電力",
+        "TAIL",
+        "三地能源",
+        "特爾"
+      ],
       "parser": "tail",
       "rank": 6,
       "brandColor": "#6A1B9A",
@@ -60,7 +99,14 @@
     {
       "id": "starship",
       "displayName": "星舟快充",
-      "aliases": ["星舟快充", "星舟", "STARCHARGER", "GCSMS", "泓德能源", "充電訂單詳情"],
+      "aliases": [
+        "星舟快充",
+        "星舟",
+        "STARCHARGER",
+        "GCSMS",
+        "泓德能源",
+        "充電訂單詳情"
+      ],
       "parser": "starship",
       "rank": 7,
       "brandColor": "#1A237E",
@@ -69,7 +115,12 @@
     {
       "id": "cloud-leopard",
       "displayName": "雲豹能源",
-      "aliases": ["雲豹能源", "雲豹", "Cloud Leopard", "CLENERGY"],
+      "aliases": [
+        "雲豹能源",
+        "雲豹",
+        "Cloud Leopard",
+        "CLENERGY"
+      ],
       "parser": null,
       "rank": 8,
       "brandColor": "#0288D1",
@@ -78,7 +129,11 @@
     {
       "id": "twn-taxi",
       "displayName": "台灣大車隊",
-      "aliases": ["台灣大車隊", "55688", "台灣大"],
+      "aliases": [
+        "台灣大車隊",
+        "55688",
+        "台灣大"
+      ],
       "parser": null,
       "rank": 9,
       "brandColor": "#F9A825",
@@ -87,7 +142,12 @@
     {
       "id": "uspace",
       "displayName": "USPACE",
-      "aliases": ["USPACE", "Uspace", "牙周", "USPACE 充電"],
+      "aliases": [
+        "USPACE",
+        "Uspace",
+        "牙周",
+        "USPACE 充電"
+      ],
       "parser": "uspace",
       "rank": 10,
       "brandColor": "#3949AB",
@@ -96,7 +156,13 @@
     {
       "id": "gogoro",
       "displayName": "Gogoro Network",
-      "aliases": ["Gogoro Network", "Gogoro", "GoShare", "睿能", "Gogoro 充電"],
+      "aliases": [
+        "Gogoro Network",
+        "Gogoro",
+        "GoShare",
+        "睿能",
+        "Gogoro 充電"
+      ],
       "parser": null,
       "rank": 11,
       "brandColor": "#00A651",
@@ -105,7 +171,11 @@
     {
       "id": "teld",
       "displayName": "特來電",
-      "aliases": ["特來電", "TELD", "Teld"],
+      "aliases": [
+        "特來電",
+        "TELD",
+        "Teld"
+      ],
       "parser": null,
       "rank": 12,
       "brandColor": "#0D47A1",
@@ -114,7 +184,11 @@
     {
       "id": "star-charge",
       "displayName": "星星充電",
-      "aliases": ["星星充電", "Star Charge", "StarCharge"],
+      "aliases": [
+        "星星充電",
+        "Star Charge",
+        "StarCharge"
+      ],
       "parser": null,
       "rank": 13,
       "brandColor": "#FFB300",
@@ -123,7 +197,11 @@
     {
       "id": "yes-charging",
       "displayName": "YES!來電",
-      "aliases": ["YES!來電", "YES來電", "YES 充電"],
+      "aliases": [
+        "YES!來電",
+        "YES來電",
+        "YES 充電"
+      ],
       "parser": null,
       "rank": 14,
       "brandColor": "#D81B60",
@@ -132,7 +210,11 @@
     {
       "id": "mycharge",
       "displayName": "MyCharge",
-      "aliases": ["MyCharge", "My Charge", "我的充電"],
+      "aliases": [
+        "MyCharge",
+        "My Charge",
+        "我的充電"
+      ],
       "parser": null,
       "rank": 15,
       "brandColor": "#0097A7",
@@ -141,7 +223,12 @@
     {
       "id": "charge-smith",
       "displayName": "Chargesmith",
-      "aliases": ["Chargesmith", "ChargeSmith", "Charge Smith", "充電史密斯"],
+      "aliases": [
+        "Chargesmith",
+        "ChargeSmith",
+        "Charge Smith",
+        "充電史密斯"
+      ],
       "parser": null,
       "rank": 16,
       "brandColor": "#5D4037",
@@ -150,7 +237,12 @@
     {
       "id": "delta",
       "displayName": "台達電",
-      "aliases": ["台達電", "Delta", "DELTA", "台達充電"],
+      "aliases": [
+        "台達電",
+        "Delta",
+        "DELTA",
+        "台達充電"
+      ],
       "parser": null,
       "rank": 17,
       "brandColor": "#003366",
@@ -159,7 +251,13 @@
     {
       "id": "fet-ev",
       "displayName": "遠傳充電",
-      "aliases": ["遠傳充電", "遠傳電信", "FET", "Far EasTone", "遠傳 FET"],
+      "aliases": [
+        "遠傳充電",
+        "遠傳電信",
+        "FET",
+        "Far EasTone",
+        "遠傳 FET"
+      ],
       "parser": null,
       "rank": 18,
       "brandColor": "#4CAF50",
@@ -168,7 +266,13 @@
     {
       "id": "twm-ev",
       "displayName": "台灣大充電",
-      "aliases": ["台灣大充電", "台灣大哥大", "台哥大", "M+", "台灣大 M+"],
+      "aliases": [
+        "台灣大充電",
+        "台灣大哥大",
+        "台哥大",
+        "M+",
+        "台灣大 M+"
+      ],
       "parser": null,
       "rank": 19,
       "brandColor": "#C2185B",
@@ -177,7 +281,13 @@
     {
       "id": "nio",
       "displayName": "NIO",
-      "aliases": ["NIO", "蔚来", "蔚來", "NIO Power", "NIOPower"],
+      "aliases": [
+        "NIO",
+        "蔚来",
+        "蔚來",
+        "NIO Power",
+        "NIOPower"
+      ],
       "parser": null,
       "rank": 20,
       "brandColor": "#212121",
@@ -186,7 +296,12 @@
     {
       "id": "lemon-power",
       "displayName": "Lemon Power",
-      "aliases": ["Lemon Power", "LemonPower", "檸檬電力", "Lemon"],
+      "aliases": [
+        "Lemon Power",
+        "LemonPower",
+        "檸檬電力",
+        "Lemon"
+      ],
       "parser": "lemon-power",
       "rank": 21,
       "brandColor": "#FBC02D",
@@ -195,7 +310,11 @@
     {
       "id": "dian-xiao-er",
       "displayName": "電小二",
-      "aliases": ["電小二", "DianXiaoEr", "電小二充電"],
+      "aliases": [
+        "電小二",
+        "DianXiaoEr",
+        "電小二充電"
+      ],
       "parser": "dian-xiao-er",
       "rank": 22,
       "brandColor": "#00897B",
@@ -204,7 +323,12 @@
     {
       "id": "che-che",
       "displayName": "車車電充",
-      "aliases": ["車車電充", "車車幣", "車車充電", "車車電"],
+      "aliases": [
+        "車車電充",
+        "車車幣",
+        "車車充電",
+        "車車電"
+      ],
       "parser": "che-che",
       "rank": 23,
       "brandColor": "#5E35B1",
@@ -213,7 +337,12 @@
     {
       "id": "linbros",
       "displayName": "LINBROS",
-      "aliases": ["LINBROS", "LIN BRO", "凌霸", "凌霸能源"],
+      "aliases": [
+        "LINBROS",
+        "LIN BRO",
+        "凌霸",
+        "凌霸能源"
+      ],
       "parser": "linbros",
       "rank": 24,
       "brandColor": "#0D47A1",
@@ -222,7 +351,9 @@
     {
       "id": "evez",
       "displayName": "EVEZ",
-      "aliases": ["EVEZ"],
+      "aliases": [
+        "EVEZ"
+      ],
       "parser": "evez",
       "rank": 25,
       "brandColor": "#1565C0",
@@ -231,7 +362,15 @@
     {
       "id": "charging-blok",
       "displayName": "區快充",
-      "aliases": ["區快充", "Charging Blok", "Charging Block", "ChargingBlok", "CHARGINGBL9K", "CHARGINGBLOK", "CHARGINGBLOCK"],
+      "aliases": [
+        "區快充",
+        "Charging Blok",
+        "Charging Block",
+        "ChargingBlok",
+        "CHARGINGBL9K",
+        "CHARGINGBLOK",
+        "CHARGINGBLOCK"
+      ],
       "parser": "charging-blok",
       "rank": 26,
       "brandColor": "#455A64",
@@ -240,7 +379,12 @@
     {
       "id": "shark-parking",
       "displayName": "SharkParking",
-      "aliases": ["SharkParking", "Shark Parking", "蝦趴", "SHARKPARKING"],
+      "aliases": [
+        "SharkParking",
+        "Shark Parking",
+        "蝦趴",
+        "SHARKPARKING"
+      ],
       "parser": null,
       "rank": 27,
       "brandColor": "#546E7A",
@@ -249,16 +393,43 @@
     {
       "id": "parking-online",
       "displayName": "城市車旅",
-      "aliases": ["城市車旅", "PARKING ONLINE", "Parking Online", "Parking Orline"],
+      "aliases": [
+        "城市車旅",
+        "PARKING ONLINE",
+        "Parking Online",
+        "Parking Orline"
+      ],
       "parser": "parking-online",
       "rank": 28,
       "brandColor": "#00897B",
       "symbolName": "parkingsign.circle.fill"
     },
     {
+      "id": "hetone",
+      "displayName": "HeTone",
+      "aliases": [
+        "HeTone",
+        "HETONE",
+        "保時捷充電站",
+        "保時捷充電"
+      ],
+      "parser": "hetone",
+      "rank": 29,
+      "brandColor": "#1A1A1A",
+      "symbolName": "ev.charger.fill"
+    },
+    {
       "id": "home-charger",
       "displayName": "家用充電樁",
-      "aliases": ["家用充電樁", "家用充電", "家庭充電", "住家充電", "壁掛充電", "Home Charger", "Homecharger"],
+      "aliases": [
+        "家用充電樁",
+        "家用充電",
+        "家庭充電",
+        "住家充電",
+        "壁掛充電",
+        "Home Charger",
+        "Homecharger"
+      ],
       "parser": null,
       "rank": 90,
       "brandColor": "#2E7D32",
