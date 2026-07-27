@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updatedAt": "2026-07-21",
+  "version": 8,
+  "updatedAt": "2026-07-27",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；全市場約 54 家，此為前 20 大規模/能見度業者。",
   "operators": [
     {
@@ -243,7 +243,7 @@
         "DELTA",
         "台達充電"
       ],
-      "parser": null,
+      "parser": "delta",
       "rank": 17,
       "brandColor": "#003366",
       "symbolName": "building.2.fill"
