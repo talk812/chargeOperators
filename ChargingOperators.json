@@ -1,7 +1,7 @@
 {
-  "version": 10,
+  "version": 11,
   "updatedAt": "2026-08-04",
-  "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；另含全國加油站自營「全國特急電」。",
+  "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
       "id": "evoasis",
@@ -444,7 +444,10 @@
       "displayName": "DARA",
       "aliases": [
         "DARA",
-        "Dara"
+        "Dara",
+        "達拉電能",
+        "DARA 達拉電",
+        "達拉電"
       ],
       "parser": "dara",
       "rank": 31,
@@ -457,12 +460,147 @@
       "aliases": [
         "evbar",
         "EVBAR",
-        "Evbar"
+        "Evbar",
+        "加電優",
+        "evbar 加電優"
       ],
       "parser": "evbar",
       "rank": 32,
       "brandColor": "#00838F",
       "symbolName": "ev.charger.fill"
+    },
+    {
+      "id": "evrun",
+      "displayName": "EVRun",
+      "aliases": [
+        "EVRun",
+        "EVRUN",
+        "和潤電能",
+        "潤電"
+      ],
+      "parser": null,
+      "rank": 33,
+      "brandColor": "#E53935",
+      "symbolName": "bolt.car.fill"
+    },
+    {
+      "id": "songhe",
+      "displayName": "淞和快充",
+      "aliases": [
+        "淞和快充",
+        "淞和",
+        "淞和工程",
+        "Songhe"
+      ],
+      "parser": null,
+      "rank": 34,
+      "brandColor": "#0277BD",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "acon-eco",
+      "displayName": "Acon-eco",
+      "aliases": [
+        "Acon-eco",
+        "Acon Eco",
+        "ACON-ECO",
+        "ACON ECO",
+        "連展電能",
+        "連展"
+      ],
+      "parser": null,
+      "rank": 35,
+      "brandColor": "#43A047",
+      "symbolName": "leaf.fill"
+    },
+    {
+      "id": "evape",
+      "displayName": "EVAPE",
+      "aliases": [
+        "EVAPE",
+        "猩動力",
+        "猩動力EVAPE",
+        "大猩猩電充",
+        "大猩猩",
+        "猩猩"
+      ],
+      "parser": null,
+      "rank": 36,
+      "brandColor": "#6D4C41",
+      "symbolName": "bolt.circle.fill"
+    },
+    {
+      "id": "ecar",
+      "displayName": "ECAR",
+      "aliases": [
+        "ECAR",
+        "Ecar",
+        "東陽能源"
+      ],
+      "parser": null,
+      "rank": 37,
+      "brandColor": "#1565C0",
+      "symbolName": "car.side.fill"
+    },
+    {
+      "id": "inpower",
+      "displayName": "INPOWER",
+      "aliases": [
+        "INPOWER",
+        "IN Power",
+        "InPower",
+        "充霸",
+        "充霸INPOWER",
+        "銓泰",
+        "銓泰環能"
+      ],
+      "parser": null,
+      "rank": 38,
+      "brandColor": "#F9A825",
+      "symbolName": "bolt.square.fill"
+    },
+    {
+      "id": "noodoe",
+      "displayName": "Noodoe",
+      "aliases": [
+        "Noodoe",
+        "NOODOE",
+        "Noodoe EV",
+        "Noodoe EV OS"
+      ],
+      "parser": null,
+      "rank": 39,
+      "brandColor": "#00ACC1",
+      "symbolName": "cloud.fill"
+    },
+    {
+      "id": "innokloud",
+      "displayName": "InnoKloud",
+      "aliases": [
+        "InnoKloud",
+        "Innokloud",
+        "innoKloud",
+        "創玖",
+        "創玖科技"
+      ],
+      "parser": null,
+      "rank": 40,
+      "brandColor": "#5C6BC0",
+      "symbolName": "building.2.fill"
+    },
+    {
+      "id": "jinpower",
+      "displayName": "勁電",
+      "aliases": [
+        "勁電",
+        "Jinpower",
+        "JinPower",
+        "JINPOWER"
+      ],
+      "parser": null,
+      "rank": 41,
+      "brandColor": "#00897B",
+      "symbolName": "bolt.horizontal.fill"
     },
     {
       "id": "home-charger",
