@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "updatedAt": "2026-08-04",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導（EVOASIS、EVALUE、U-Power、iCharging、特爾電力、星舟等）與 AmpGO 地圖常見業者整理；另含全國加油站自營「全國特急電」。",
   "operators": [
@@ -200,9 +200,13 @@
       "aliases": [
         "YES!來電",
         "YES來電",
-        "YES 充電"
+        "YES 充電",
+        "Yes Point",
+        "YES Point",
+        "YES多元綠動",
+        "YesPoint"
       ],
-      "parser": null,
+      "parser": "yes-charging",
       "rank": 14,
       "brandColor": "#D81B60",
       "symbolName": "hand.thumbsup.fill"
@@ -434,6 +438,31 @@
       "rank": 30,
       "brandColor": "#C62828",
       "symbolName": "bolt.fill"
+    },
+    {
+      "id": "dara",
+      "displayName": "DARA",
+      "aliases": [
+        "DARA",
+        "Dara"
+      ],
+      "parser": "dara",
+      "rank": 31,
+      "brandColor": "#3949AB",
+      "symbolName": "bolt.circle.fill"
+    },
+    {
+      "id": "evbar",
+      "displayName": "evbar",
+      "aliases": [
+        "evbar",
+        "EVBAR",
+        "Evbar"
+      ],
+      "parser": "evbar",
+      "rank": 32,
+      "brandColor": "#00838F",
+      "symbolName": "ev.charger.fill"
     },
     {
       "id": "home-charger",
