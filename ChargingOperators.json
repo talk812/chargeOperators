@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "updatedAt": "2026-08-18",
+  "version": 14,
+  "updatedAt": "2026-08-21",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
@@ -614,6 +614,18 @@
       "parser": null,
       "rank": 42,
       "brandColor": "#546E7A",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "bmw",
+      "displayName": "BMW",
+      "aliases": [
+        "BMW",
+        "BMW充電,蘭陽鎔德"
+      ],
+      "parser": null,
+      "rank": 43,
+      "brandColor": "#1C69D4",
       "symbolName": "bolt.fill"
     },
     {
