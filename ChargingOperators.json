@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "updatedAt": "2026-08-24",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
@@ -645,6 +645,32 @@
       "rank": 44,
       "brandColor": "#1B5E4B",
       "symbolName": "bolt.fill"
+    },
+    {
+      "id": "energy-inn",
+      "displayName": "能源驛站",
+      "aliases": [
+        "能源驛站",
+        "Energy Inn",
+        "EnergyInn"
+      ],
+      "parser": null,
+      "rank": 45,
+      "brandColor": "#2E7D32",
+      "symbolName": "leaf.fill"
+    },
+    {
+      "id": "speed-wash",
+      "displayName": "速洗車亭",
+      "aliases": [
+        "速洗車亭",
+        "速洗",
+        "Speed Wash"
+      ],
+      "parser": null,
+      "rank": 46,
+      "brandColor": "#0277BD",
+      "symbolName": "drop.fill"
     },
     {
       "id": "home-charger",
