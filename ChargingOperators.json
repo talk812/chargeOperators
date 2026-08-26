@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updatedAt": "2026-08-24",
+  "version": 22,
+  "updatedAt": "2026-08-26",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
@@ -260,7 +260,10 @@
         "遠傳電信",
         "FET",
         "Far EasTone",
-        "遠傳 FET"
+        "遠傳 FET",
+        "Charge Anywhere",
+        "ChargeAnywhere",
+        "遠傳 Charge Anywhere"
       ],
       "parser": null,
       "rank": 18,
@@ -434,7 +437,7 @@
         "全國加油站",
         "NPC"
       ],
-      "parser": null,
+      "parser": "npc-express",
       "rank": 30,
       "brandColor": "#C62828",
       "symbolName": "bolt.fill"
@@ -671,6 +674,84 @@
       "rank": 46,
       "brandColor": "#0277BD",
       "symbolName": "drop.fill"
+    },
+    {
+      "id": "nhoa-tcc",
+      "displayName": "NHOA.TCC",
+      "aliases": [
+        "NHOA.TCC",
+        "台泥",
+        "台泥充電",
+        "NHOA",
+        "NHOA TCC",
+        "TCC充電"
+      ],
+      "parser": null,
+      "rank": 47,
+      "brandColor": "#5D4037",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "wincharge",
+      "displayName": "WINCHARGE",
+      "aliases": [
+        "WINCHARGE",
+        "雲樁",
+        "WinCharge",
+        "Win Charge",
+        "雲樁充電"
+      ],
+      "parser": null,
+      "rank": 48,
+      "brandColor": "#0288D1",
+      "symbolName": "cloud.fill"
+    },
+    {
+      "id": "heyun",
+      "displayName": "和運充電",
+      "aliases": [
+        "和運充電",
+        "和運",
+        "和泰漫遊",
+        "和泰充電",
+        "Hotai",
+        "Hotai Charge",
+        "Heyun"
+      ],
+      "parser": null,
+      "rank": 49,
+      "brandColor": "#C62828",
+      "symbolName": "car.fill"
+    },
+    {
+      "id": "audi",
+      "displayName": "AUDI",
+      "aliases": [
+        "AUDI",
+        "Audi",
+        "奧迪",
+        "Audi充電",
+        "AUDI充電"
+      ],
+      "parser": null,
+      "rank": 50,
+      "brandColor": "#BB0A30",
+      "symbolName": "car.side.fill"
+    },
+    {
+      "id": "vw",
+      "displayName": "VW",
+      "aliases": [
+        "VW",
+        "Volkswagen",
+        "福斯",
+        "VW充電",
+        "Volkswagen充電"
+      ],
+      "parser": null,
+      "rank": 51,
+      "brandColor": "#001E50",
+      "symbolName": "car.side.fill"
     },
     {
       "id": "home-charger",
