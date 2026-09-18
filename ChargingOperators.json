@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "updatedAt": "2026-09-11",
+  "version": 24,
+  "updatedAt": "2026-09-17",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
@@ -77,7 +77,7 @@
         "中興電工",
         "iCharging APP"
       ],
-      "parser": null,
+      "parser": "icharging",
       "rank": 5,
       "brandColor": "#00A3B5",
       "symbolName": "ev.charger.fill"
@@ -764,6 +764,64 @@
       "parser": null,
       "rank": 52,
       "brandColor": "#546E7A",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "porsche",
+      "displayName": "保時捷",
+      "aliases": [
+        "保時捷",
+        "Porsche",
+        "保時捷目的地充電",
+        "Porsche Destination Charging"
+      ],
+      "parser": null,
+      "rank": 53,
+      "brandColor": "#000000",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "taipei-agricultural",
+      "displayName": "台北農產",
+      "aliases": [
+        "台北農產",
+        "台北農產運銷",
+        "臺北農產運銷",
+        "濱江市場充電",
+        "第二果菜批發市場"
+      ],
+      "parser": null,
+      "rank": 55,
+      "brandColor": "#6D4C41",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "dianxinglu",
+      "displayName": "電行旅",
+      "aliases": [
+        "電行旅",
+        "電行旅APP",
+        "ChargeReel",
+        "中保科充電"
+      ],
+      "parser": null,
+      "rank": 56,
+      "brandColor": "#1565C0",
+      "symbolName": "bolt.fill"
+    },
+    {
+      "id": "shuangyi-life",
+      "displayName": "雙翼生活",
+      "aliases": [
+        "雙翼生活",
+        "雙翼生活充電",
+        "依德科技",
+        "依德",
+        "IDE"
+      ],
+      "parser": null,
+      "rank": 54,
+      "brandColor": "#2E7D32",
       "symbolName": "bolt.fill"
     },
     {
