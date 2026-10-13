@@ -1,6 +1,6 @@
 {
-  "version": 30,
-  "updatedAt": "2026-10-12",
+  "version": 31,
+  "updatedAt": "2026-10-13T01:25:17Z",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
@@ -920,6 +920,20 @@
       "rank": 90,
       "brandColor": "#2E7D32",
       "symbolName": "house.fill"
+    },
+    {
+      "id": "shuangyi-life",
+      "displayName": "雙翼生活",
+      "aliases": [
+        "雙翼生活",
+        "雙翼生活充電",
+        "依德科技",
+        "依德"
+      ],
+      "parser": null,
+      "rank": 63,
+      "brandColor": "#2E7D32",
+      "symbolName": "bolt.fill"
     },
     {
       "id": "other",
