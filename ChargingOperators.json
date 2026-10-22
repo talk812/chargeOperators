@@ -1,6 +1,6 @@
 {
-  "version": 32,
-  "updatedAt": "2026-10-15T01:27:25Z",
+  "version": 33,
+  "updatedAt": "2026-10-22",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
@@ -59,6 +59,8 @@
         "Tesla",
         "特斯拉",
         "SUPERCHARGER",
+        "SUPERCHARGING",
+        "Supercharging",
         "超級充電",
         "Tesla Supercharger"
       ],
@@ -903,6 +905,34 @@
       "rank": 62,
       "brandColor": "#546E7A",
       "symbolName": "bolt.circle.fill"
+    },
+    {
+      "id": "majortek",
+      "displayName": "majortek-ev.com.tw",
+      "aliases": [
+        "majortek-ev.com.tw",
+        "majortek",
+        "Majortek",
+        "MAJORTEK"
+      ],
+      "parser": "majortek",
+      "rank": 65,
+      "brandColor": "#1565C0",
+      "symbolName": "bolt.car.fill"
+    },
+    {
+      "id": "fetci",
+      "displayName": "遠創智慧",
+      "aliases": [
+        "遠創智慧",
+        "遠創智慧股份有限公司",
+        "FETC International",
+        "uTagGo"
+      ],
+      "parser": null,
+      "rank": 66,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill"
     },
     {
       "id": "home-charger",
