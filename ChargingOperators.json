@@ -1,6 +1,6 @@
 {
-  "version": 33,
-  "updatedAt": "2026-10-22",
+  "version": 34,
+  "updatedAt": "2026-10-24",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
@@ -812,8 +812,11 @@
     },
     {
       "id": "palcom",
-      "displayName": "皇鋒通訊",
+      "displayName": "電行旅",
       "aliases": [
+        "電行旅",
+        "EViator",
+        "Ev電行旅",
         "皇鋒通訊",
         "皇鋒",
         "Palcom",
