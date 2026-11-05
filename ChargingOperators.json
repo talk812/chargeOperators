@@ -1,6 +1,6 @@
 {
-  "version": 35,
-  "updatedAt": "2026-10-30",
+  "version": 36,
+  "updatedAt": "2026-11-05",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
   "operators": [
     {
@@ -949,6 +949,20 @@
       "rank": 67,
       "brandColor": "#546E7A",
       "symbolName": "parkingsign.circle.fill"
+    },
+    {
+      "id": "acer-ats",
+      "displayName": "宏碁智通",
+      "aliases": [
+        "宏碁智通",
+        "Acer ATS",
+        "宏碁智通 ATS",
+        "宏碁智通充電"
+      ],
+      "parser": null,
+      "rank": 68,
+      "brandColor": "#83B81A",
+      "symbolName": "bolt.fill"
     },
     {
       "id": "home-charger",
