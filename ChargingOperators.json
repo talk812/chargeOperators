@@ -1,7 +1,7 @@
 {
-  "version": 37,
-  "updatedAt": "2026-11-22",
-  "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。",
+  "version": 40,
+  "updatedAt": "2026-11-24",
+  "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。 Operators may include countries[] for picker filtering by device region.",
   "operators": [
     {
       "id": "evoasis",
@@ -16,7 +16,10 @@
       "parser": "evoasis",
       "rank": 1,
       "brandColor": "#00B4A6",
-      "symbolName": "leaf.fill"
+      "symbolName": "leaf.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "evalue",
@@ -34,7 +37,10 @@
       "parser": "evalue",
       "rank": 2,
       "brandColor": "#0B4F9C",
-      "symbolName": "ev.charger.fill"
+      "symbolName": "ev.charger.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "u-power",
@@ -50,7 +56,10 @@
       "parser": "u-power",
       "rank": 3,
       "brandColor": "#FF6A00",
-      "symbolName": "bolt.car.fill"
+      "symbolName": "bolt.car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "tesla",
@@ -67,7 +76,11 @@
       "parser": "tesla",
       "rank": 4,
       "brandColor": "#E31937",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW",
+        "JP"
+      ]
     },
     {
       "id": "icharging",
@@ -82,7 +95,10 @@
       "parser": null,
       "rank": 5,
       "brandColor": "#00A3B5",
-      "symbolName": "ev.charger.fill"
+      "symbolName": "ev.charger.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "tail",
@@ -96,7 +112,10 @@
       "parser": "tail",
       "rank": 6,
       "brandColor": "#8DC63F",
-      "symbolName": "bolt.circle.fill"
+      "symbolName": "bolt.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "starship",
@@ -112,7 +131,10 @@
       "parser": "starship",
       "rank": 7,
       "brandColor": "#0D1B4C",
-      "symbolName": "star.fill"
+      "symbolName": "star.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "cloud-leopard",
@@ -126,7 +148,10 @@
       "parser": null,
       "rank": 8,
       "brandColor": "#0288D1",
-      "symbolName": "cloud.fill"
+      "symbolName": "cloud.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "twn-taxi",
@@ -139,7 +164,10 @@
       "parser": null,
       "rank": 9,
       "brandColor": "#F9A825",
-      "symbolName": "car.fill"
+      "symbolName": "car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "uspace",
@@ -153,7 +181,10 @@
       "parser": "uspace",
       "rank": 10,
       "brandColor": "#2F2A7A",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "gogoro",
@@ -168,7 +199,10 @@
       "parser": null,
       "rank": 11,
       "brandColor": "#00A651",
-      "symbolName": "scooter"
+      "symbolName": "scooter",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "teld",
@@ -181,7 +215,10 @@
       "parser": null,
       "rank": 12,
       "brandColor": "#0D47A1",
-      "symbolName": "ev.charger.fill"
+      "symbolName": "ev.charger.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "star-charge",
@@ -194,7 +231,10 @@
       "parser": null,
       "rank": 13,
       "brandColor": "#FFB300",
-      "symbolName": "star.circle.fill"
+      "symbolName": "star.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "yes-charging",
@@ -211,7 +251,10 @@
       "parser": "yes-charging",
       "rank": 14,
       "brandColor": "#EC008C",
-      "symbolName": "hand.thumbsup.fill"
+      "symbolName": "hand.thumbsup.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "mycharge",
@@ -224,7 +267,10 @@
       "parser": null,
       "rank": 15,
       "brandColor": "#0097A7",
-      "symbolName": "battery.100.bolt"
+      "symbolName": "battery.100.bolt",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "charge-smith",
@@ -238,7 +284,10 @@
       "parser": null,
       "rank": 16,
       "brandColor": "#5D4037",
-      "symbolName": "wrench.and.screwdriver.fill"
+      "symbolName": "wrench.and.screwdriver.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "delta",
@@ -252,7 +301,10 @@
       "parser": "delta",
       "rank": 17,
       "brandColor": "#0070C0",
-      "symbolName": "building.2.fill"
+      "symbolName": "building.2.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "fet-ev",
@@ -270,7 +322,10 @@
       "parser": null,
       "rank": 18,
       "brandColor": "#4CAF50",
-      "symbolName": "antenna.radiowaves.left.and.right"
+      "symbolName": "antenna.radiowaves.left.and.right",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "twm-ev",
@@ -285,7 +340,10 @@
       "parser": null,
       "rank": 19,
       "brandColor": "#C2185B",
-      "symbolName": "phone.fill"
+      "symbolName": "phone.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "nio",
@@ -300,7 +358,10 @@
       "parser": null,
       "rank": 20,
       "brandColor": "#212121",
-      "symbolName": "car.side.fill"
+      "symbolName": "car.side.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "lemon-power",
@@ -314,7 +375,10 @@
       "parser": "lemon-power",
       "rank": 21,
       "brandColor": "#FBC02D",
-      "symbolName": "bolt.circle.fill"
+      "symbolName": "bolt.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "dian-xiao-er",
@@ -327,7 +391,10 @@
       "parser": "dian-xiao-er",
       "rank": 22,
       "brandColor": "#00A0A0",
-      "symbolName": "bolt.horizontal.fill"
+      "symbolName": "bolt.horizontal.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "che-che",
@@ -341,7 +408,10 @@
       "parser": "che-che",
       "rank": 23,
       "brandColor": "#5E35B1",
-      "symbolName": "creditcard.fill"
+      "symbolName": "creditcard.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "linbros",
@@ -355,7 +425,10 @@
       "parser": "linbros",
       "rank": 24,
       "brandColor": "#0D47A1",
-      "symbolName": "bolt.square.fill"
+      "symbolName": "bolt.square.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "evez",
@@ -366,7 +439,10 @@
       "parser": "evez",
       "rank": 25,
       "brandColor": "#1E88E5",
-      "symbolName": "bolt.car.fill"
+      "symbolName": "bolt.car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "charging-blok",
@@ -383,7 +459,10 @@
       "parser": "charging-blok",
       "rank": 26,
       "brandColor": "#1F2933",
-      "symbolName": "bolt.square.fill"
+      "symbolName": "bolt.square.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "shark-parking",
@@ -397,7 +476,10 @@
       "parser": null,
       "rank": 27,
       "brandColor": "#546E7A",
-      "symbolName": "bolt.car.fill"
+      "symbolName": "bolt.car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "parking-online",
@@ -411,7 +493,10 @@
       "parser": "parking-online",
       "rank": 28,
       "brandColor": "#00897B",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "hetone",
@@ -425,7 +510,10 @@
       "parser": "hetone",
       "rank": 29,
       "brandColor": "#1A1A1A",
-      "symbolName": "ev.charger.fill"
+      "symbolName": "ev.charger.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "npc-express",
@@ -442,7 +530,10 @@
       "parser": "npc-express",
       "rank": 30,
       "brandColor": "#C62828",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "dara",
@@ -457,7 +548,10 @@
       "parser": "dara",
       "rank": 31,
       "brandColor": "#3949AB",
-      "symbolName": "bolt.circle.fill"
+      "symbolName": "bolt.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "evbar",
@@ -472,7 +566,10 @@
       "parser": "evbar",
       "rank": 32,
       "brandColor": "#00A7A7",
-      "symbolName": "ev.charger.fill"
+      "symbolName": "ev.charger.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "evrun",
@@ -486,7 +583,10 @@
       "parser": null,
       "rank": 33,
       "brandColor": "#E53935",
-      "symbolName": "bolt.car.fill"
+      "symbolName": "bolt.car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "songhe",
@@ -500,7 +600,10 @@
       "parser": null,
       "rank": 34,
       "brandColor": "#0277BD",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "acon-eco",
@@ -516,7 +619,10 @@
       "parser": null,
       "rank": 35,
       "brandColor": "#43A047",
-      "symbolName": "leaf.fill"
+      "symbolName": "leaf.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "evape",
@@ -532,7 +638,10 @@
       "parser": null,
       "rank": 36,
       "brandColor": "#6D4C41",
-      "symbolName": "bolt.circle.fill"
+      "symbolName": "bolt.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "ecar",
@@ -545,7 +654,10 @@
       "parser": null,
       "rank": 37,
       "brandColor": "#1565C0",
-      "symbolName": "car.side.fill"
+      "symbolName": "car.side.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "inpower",
@@ -562,7 +674,10 @@
       "parser": null,
       "rank": 38,
       "brandColor": "#F9A825",
-      "symbolName": "bolt.square.fill"
+      "symbolName": "bolt.square.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "noodoe",
@@ -576,7 +691,10 @@
       "parser": null,
       "rank": 39,
       "brandColor": "#00ACC1",
-      "symbolName": "cloud.fill"
+      "symbolName": "cloud.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "innokloud",
@@ -591,7 +709,10 @@
       "parser": null,
       "rank": 40,
       "brandColor": "#5C6BC0",
-      "symbolName": "building.2.fill"
+      "symbolName": "building.2.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "jinpower",
@@ -605,7 +726,10 @@
       "parser": null,
       "rank": 41,
       "brandColor": "#00897B",
-      "symbolName": "bolt.horizontal.fill"
+      "symbolName": "bolt.horizontal.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "hiev",
@@ -619,7 +743,10 @@
       "parser": null,
       "rank": 42,
       "brandColor": "#546E7A",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "bmw",
@@ -631,7 +758,10 @@
       "parser": null,
       "rank": 43,
       "brandColor": "#1C69D4",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "gochabar",
@@ -649,7 +779,10 @@
       "parser": "gochabar",
       "rank": 44,
       "brandColor": "#1B5E4B",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "energy-inn",
@@ -662,7 +795,10 @@
       "parser": null,
       "rank": 45,
       "brandColor": "#2E7D32",
-      "symbolName": "leaf.fill"
+      "symbolName": "leaf.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "speed-wash",
@@ -675,7 +811,10 @@
       "parser": null,
       "rank": 46,
       "brandColor": "#0277BD",
-      "symbolName": "drop.fill"
+      "symbolName": "drop.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "nhoa-tcc",
@@ -691,7 +830,10 @@
       "parser": null,
       "rank": 47,
       "brandColor": "#5D4037",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "wincharge",
@@ -706,7 +848,10 @@
       "parser": null,
       "rank": 48,
       "brandColor": "#0288D1",
-      "symbolName": "cloud.fill"
+      "symbolName": "cloud.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "heyun",
@@ -723,7 +868,10 @@
       "parser": null,
       "rank": 49,
       "brandColor": "#C62828",
-      "symbolName": "car.fill"
+      "symbolName": "car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "audi",
@@ -738,7 +886,10 @@
       "parser": null,
       "rank": 50,
       "brandColor": "#BB0A30",
-      "symbolName": "car.side.fill"
+      "symbolName": "car.side.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "vw",
@@ -753,7 +904,10 @@
       "parser": null,
       "rank": 51,
       "brandColor": "#001E50",
-      "symbolName": "car.side.fill"
+      "symbolName": "car.side.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "dodohome",
@@ -766,7 +920,10 @@
       "parser": null,
       "rank": 52,
       "brandColor": "#546E7A",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "porsche",
@@ -780,7 +937,10 @@
       "parser": null,
       "rank": 53,
       "brandColor": "#000000",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "fushan",
@@ -795,7 +955,10 @@
       "parser": null,
       "rank": 54,
       "brandColor": "#546E7A",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "microprogram",
@@ -808,7 +971,10 @@
       "parser": null,
       "rank": 55,
       "brandColor": "#546E7A",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "palcom",
@@ -825,7 +991,10 @@
       "parser": null,
       "rank": 56,
       "brandColor": "#546E7A",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "jia-parking",
@@ -839,7 +1008,10 @@
       "parser": null,
       "rank": 57,
       "brandColor": "#546E7A",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "riyue-ting",
@@ -852,7 +1024,10 @@
       "parser": null,
       "rank": 58,
       "brandColor": "#546E7A",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "tapmc",
@@ -866,7 +1041,10 @@
       "parser": null,
       "rank": 59,
       "brandColor": "#546E7A",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "foxtron",
@@ -880,7 +1058,10 @@
       "parser": "foxtron",
       "rank": 60,
       "brandColor": "#0A2540",
-      "symbolName": "car.fill"
+      "symbolName": "car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "luxgen",
@@ -893,7 +1074,10 @@
       "parser": "luxgen",
       "rank": 61,
       "brandColor": "#C4A35A",
-      "symbolName": "bolt.car.fill"
+      "symbolName": "bolt.car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "t-ray",
@@ -907,7 +1091,10 @@
       "parser": null,
       "rank": 62,
       "brandColor": "#546E7A",
-      "symbolName": "bolt.circle.fill"
+      "symbolName": "bolt.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "majortek",
@@ -921,7 +1108,10 @@
       "parser": "majortek",
       "rank": 65,
       "brandColor": "#1565C0",
-      "symbolName": "bolt.car.fill"
+      "symbolName": "bolt.car.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "fetci",
@@ -935,7 +1125,10 @@
       "parser": null,
       "rank": 66,
       "brandColor": "#546E7A",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "weilong",
@@ -948,7 +1141,10 @@
       "parser": null,
       "rank": 67,
       "brandColor": "#546E7A",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "acer-ats",
@@ -962,20 +1158,43 @@
       "parser": null,
       "rank": 68,
       "brandColor": "#83B81A",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
-      "id": "che-ting",
-      "displayName": "俥亭",
+      "id": "e-mobility-power",
+      "displayName": "e-Mobility Power",
       "aliases": [
-        "俥亭",
-        "俥亭停車",
-        "俥亭停車事業股份有限公司"
+        "e-Mobility Power",
+        "e-モビリティパワー",
+        "eMP",
+        "イーモビリティパワー"
       ],
       "parser": null,
       "rank": 69,
       "brandColor": "#546E7A",
-      "symbolName": "parkingsign.circle.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "enechange",
+      "displayName": "ENECHANGE",
+      "aliases": [
+        "ENECHANGE",
+        "エネチェンジ",
+        "EVsmart"
+      ],
+      "parser": null,
+      "rank": 70,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
     },
     {
       "id": "home-charger",
@@ -992,7 +1211,11 @@
       "parser": null,
       "rank": 90,
       "brandColor": "#2E7D32",
-      "symbolName": "house.fill"
+      "symbolName": "house.fill",
+      "countries": [
+        "TW",
+        "JP"
+      ]
     },
     {
       "id": "shuangyi-life",
@@ -1006,7 +1229,10 @@
       "parser": null,
       "rank": 63,
       "brandColor": "#2E7D32",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "tw-intl-dev",
@@ -1020,7 +1246,10 @@
       "parser": null,
       "rank": 64,
       "brandColor": "#5D4037",
-      "symbolName": "bolt.fill"
+      "symbolName": "bolt.fill",
+      "countries": [
+        "TW"
+      ]
     },
     {
       "id": "other",
@@ -1030,7 +1259,11 @@
       "rank": 99,
       "isCustom": true,
       "brandColor": "#9E9E9E",
-      "symbolName": "ellipsis.circle.fill"
+      "symbolName": "ellipsis.circle.fill",
+      "countries": [
+        "TW",
+        "JP"
+      ]
     }
   ]
 }
