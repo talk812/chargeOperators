@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 48,
   "updatedAt": "2026-11-24",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。 Operators may include countries[] for picker filtering by device region.",
   "operators": [
@@ -1192,6 +1192,138 @@
       "rank": 70,
       "brandColor": "#546E7A",
       "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "toyota",
+      "displayName": "Toyota",
+      "aliases": [
+        "Toyota",
+        "トヨタ",
+        "トヨタモビリティ",
+        "ネッツトヨタ",
+        "カローラ"
+      ],
+      "parser": null,
+      "rank": 71,
+      "brandColor": "#EB0A1E",
+      "symbolName": "car.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "nissan",
+      "displayName": "Nissan",
+      "aliases": [
+        "日産",
+        "日産プリンス",
+        "Nissan"
+      ],
+      "parser": null,
+      "rank": 72,
+      "brandColor": "#C3002F",
+      "symbolName": "car.side.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "honda",
+      "displayName": "Honda",
+      "aliases": [
+        "Honda",
+        "ホンダ",
+        "Honda Cars",
+        "ホンダカーズ"
+      ],
+      "parser": null,
+      "rank": 73,
+      "brandColor": "#E40521",
+      "symbolName": "car.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "mitsubishi-motors",
+      "displayName": "Mitsubishi Motors",
+      "aliases": [
+        "三菱自動車",
+        "三菱自動車販売",
+        "Mitsubishi Motors"
+      ],
+      "parser": null,
+      "rank": 74,
+      "brandColor": "#E60012",
+      "symbolName": "car.side.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "park24",
+      "displayName": "PARK24 / Times",
+      "aliases": [
+        "PARK24 / Times",
+        "パーク24",
+        "タイムズ",
+        "Times",
+        "PARK24"
+      ],
+      "parser": null,
+      "rank": 75,
+      "brandColor": "#0068B7",
+      "symbolName": "parkingsign.circle.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "japan-systembank",
+      "displayName": "日本システムバンク",
+      "aliases": [
+        "日本システムバンク",
+        "システムバンク",
+        "Japan System Bank"
+      ],
+      "parser": null,
+      "rank": 76,
+      "brandColor": "#2E7D32",
+      "symbolName": "parkingsign",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "seven-eleven",
+      "displayName": "7-Eleven",
+      "aliases": [
+        "セブン-イレブン",
+        "セブンイレブン",
+        "7-Eleven"
+      ],
+      "parser": null,
+      "rank": 77,
+      "brandColor": "#E8382F",
+      "symbolName": "bag.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "familymart",
+      "displayName": "FamilyMart",
+      "aliases": [
+        "ファミリーマート",
+        "FamilyMart"
+      ],
+      "parser": null,
+      "rank": 78,
+      "brandColor": "#00993E",
+      "symbolName": "bag.fill",
       "countries": [
         "JP"
       ]
