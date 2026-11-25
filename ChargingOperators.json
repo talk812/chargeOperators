@@ -1,6 +1,6 @@
 {
-  "version": 48,
-  "updatedAt": "2026-11-24",
+  "version": 49,
+  "updatedAt": "2026-11-25",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。 Operators may include countries[] for picker filtering by device region.",
   "operators": [
     {
@@ -1324,6 +1324,103 @@
       "rank": 78,
       "brandColor": "#00993E",
       "symbolName": "bag.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "terra-charge",
+      "displayName": "Terra Charge",
+      "aliases": [
+        "Terra Charge",
+        "TerraCharge",
+        "テラチャージ"
+      ],
+      "parser": null,
+      "rank": 79,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "powerx",
+      "displayName": "PowerX",
+      "aliases": [
+        "PowerX",
+        "PowerX Hypercharger",
+        "Hypercharger",
+        "パワーエックス"
+      ],
+      "parser": null,
+      "rank": 80,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "eneos-charge-plus",
+      "displayName": "ENEOS Charge Plus",
+      "aliases": [
+        "ENEOS Charge Plus",
+        "ENEOS Charge+",
+        "エネオスチャージプラス"
+      ],
+      "parser": null,
+      "rank": 81,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "plugo",
+      "displayName": "Plugo",
+      "aliases": [
+        "Plugo",
+        "PLUGO",
+        "プラゴ",
+        "Myプラゴ"
+      ],
+      "parser": null,
+      "rank": 82,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "wecharge",
+      "displayName": "WeCharge",
+      "aliases": [
+        "WeCharge",
+        "ウィーチャージ",
+        "ユビ電"
+      ],
+      "parser": null,
+      "rank": 83,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "kanmobi",
+      "displayName": "カンモビチャージ",
+      "aliases": [
+        "カンモビチャージ",
+        "カンモビ"
+      ],
+      "parser": null,
+      "rank": 84,
+      "brandColor": "#546E7A",
+      "symbolName": "bolt.fill",
       "countries": [
         "JP"
       ]
