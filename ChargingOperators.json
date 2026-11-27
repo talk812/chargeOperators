@@ -1,6 +1,6 @@
 {
-  "version": 49,
-  "updatedAt": "2026-11-25",
+  "version": 50,
+  "updatedAt": "2026-11-27",
   "sourceNote": "依 2025–2026 台灣充電市場公開報導與 AmpGO／Analytics OCR 回報整理；含全國特急電、EVRun、淞和快充、Acon-eco、EVAPE、ECAR、INPOWER 等。 Operators may include countries[] for picker filtering by device region.",
   "operators": [
     {
@@ -31,7 +31,6 @@
         "華城",
         "裕電",
         "電能值",
-        "MYCHARGE",
         "evalue.com"
       ],
       "parser": "evalue",
@@ -98,6 +97,9 @@
       "symbolName": "ev.charger.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -115,6 +117,9 @@
       "symbolName": "bolt.circle.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -134,6 +139,9 @@
       "symbolName": "star.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "parking-online"
       ]
     },
     {
@@ -270,6 +278,9 @@
       "symbolName": "battery.100.bolt",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "uspace"
       ]
     },
     {
@@ -442,6 +453,9 @@
       "symbolName": "bolt.car.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -462,6 +476,9 @@
       "symbolName": "bolt.square.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -641,6 +658,9 @@
       "symbolName": "bolt.circle.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -712,6 +732,9 @@
       "symbolName": "building.2.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -746,6 +769,9 @@
       "symbolName": "bolt.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -798,6 +824,9 @@
       "symbolName": "leaf.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
@@ -851,6 +880,9 @@
       "symbolName": "cloud.fill",
       "countries": [
         "TW"
+      ],
+      "paymentApps": [
+        "evoasis"
       ]
     },
     {
